@@ -1,7 +1,5 @@
 # nested-if-else-compiler
 
-To run program:
-
 lex lexer.l
 
 yacc -d -v parser.y
