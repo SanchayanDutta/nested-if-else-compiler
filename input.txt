@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(int argv,char *argc[])
+{
+	int x;
+	int y;
+	x=5;
+	y=0;
+	if(x>2)
+	{
+	y=1;
+	}
+	else
+	{
+	y=2;
+	}
+}
