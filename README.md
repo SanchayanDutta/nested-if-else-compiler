@@ -1,6 +1,6 @@
 # nested-if-else-compiler
 
-Use the following commands to run the program. This will require installation of **Lex** and **Yacc**.
+Use the following commands in the terminal to run the program. This will require installation of **Lex** and **Yacc**.
 
 lex lexer.l
 
