@@ -1,4 +1,4 @@
-# if-else-compiler
+# nested-if-else-compiler
 
 To run program:
 
